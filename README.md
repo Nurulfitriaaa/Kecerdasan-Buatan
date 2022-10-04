@@ -1,3 +1,1 @@
-# Ujian-Tengah-Semester
-# Kecerdasan-Buatan
-# Nurul-Fitria
+# Ujian-Tengah-Semester_Nurul-Fitria_Kecerdasan-Buatan
